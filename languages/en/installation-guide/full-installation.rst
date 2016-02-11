@@ -55,7 +55,7 @@ http://download.fedoraproject.org/pub/epel/6/i386/repoview/epel-release.html and
 
     [Tuleap]
     name=Tuleap
-    baseurl=http://ci.tuleap.net/yum/tuleap/rhel/6/dev/$basearch
+    baseurl=http://ci.tuleap.net/yum/tuleap/dev/x86_64/
     enabled=1
     gpgcheck=0
 
